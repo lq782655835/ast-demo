@@ -5,6 +5,8 @@
   "author": "springleo",
   "license": "MIT",
   "dependencies": {
+    "acorn": "^7.3.1",
+    "acorn-jsx": "^5.2.0",
     "vue-template-compiler": "^2.6.11"
   }
 }
