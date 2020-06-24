@@ -1,0 +1,10 @@
+{
+  "name": "ast-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "springleo",
+  "license": "MIT",
+  "dependencies": {
+    "vue-template-compiler": "^2.6.11"
+  }
+}
